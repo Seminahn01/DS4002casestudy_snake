@@ -19,7 +19,8 @@ Second-year students will walk through the full pipeline of building a computer 
 ├── SnakeID.ipynb/
 ├── CS3 Hook Document.pdf
 ├── DS4002rubric.pdf
-└──  references/
+├── references/
+└── README.md
 ```
 
 ## How to Get Started
